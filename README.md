@@ -11,3 +11,4 @@ Landing page for a fictional company, made using Bootstrap. Part of Colt Steele'
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
